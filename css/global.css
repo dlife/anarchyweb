@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'bad\blockhead';
+    src: url('font/badblockhead.ttf');
+}
+* {
+    box-sizing: border-box;
+}
+
+body {
+        font-family: 'bad\ blockhead';
+}
